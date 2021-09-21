@@ -1,12 +1,11 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://garden.jokens.me/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
-    "/content/templates/*",
-    "/content/private/*",
+    "/content/🎪 Random/*",
 ]
 
 [markup]

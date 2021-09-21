@@ -1,12 +1,9 @@
-name: Jacky Zhao
+name: JokeNeverSoke
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  This is my personal digital garden.
 page_title:
-  Quartz Example Page
+  JokeNS's Digital Garden
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Main Site
+    link: https://jokens.me
