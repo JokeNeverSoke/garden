@@ -18,5 +18,4 @@ build: prepare
 upload: prepare
     git add .
     git commit -m "Chore: daily" --no-gpg-sign
-    proxy enable
     git push
