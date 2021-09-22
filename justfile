@@ -20,6 +20,3 @@ upload: prepare
     git commit -m "Chore: daily" --no-gpg-sign
     proxy enable
     git push
-
-deploy: prepare
-    vercel --prod

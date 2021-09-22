@@ -23,7 +23,7 @@ Rasputin lived the following decade with what was known as a “double life.” 
 
 ### War
 
-After the [War](Tsar-Nicholas-II]] left to the front commanding the [[Russian-Participation-In-World-War-One), Rasputin used his influence to control Russia.
+After the [Tsar-Nicholas-II](Tsar-Nicholas-II) left for the front to command the [War](Russian-Participation-In-World-War-One), Rasputin used his influence to control Russia.
 
 Many defeats in Germany in 1915 brought complaints towards the government. Suddenly, people noticed many officers and officials had German names. Rasputin was accused of working towards Russia’s defeat. As the Tsarina was from Hesse, the suspicion also flooded towards her.
 

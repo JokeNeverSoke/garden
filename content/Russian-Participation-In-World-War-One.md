@@ -28,4 +28,4 @@ Many died without proper equipment, some even lacked basic clothing and boots. R
 
 ## See Also
 
-[202103141651-World-War-1](202103141651-World-War-1)
+[World-War-1](World-War-1)

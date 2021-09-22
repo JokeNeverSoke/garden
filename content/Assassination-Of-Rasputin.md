@@ -7,7 +7,7 @@
 
 ## Content
 
-Prince Felix Yusupov did not have a good reason to murder [Rasputin was damaging the royal family's reputation](Gregory-Rasputin]]. He claimed it was for the good of Russia after fleeing from Russia. [[Relationship-Between-Rasputin-And-The-Royal-Family). Some historians suggested British involvement to prevent Russia from withdrawing from the war, but it was certainly not the British who committed the act.
+Prince Felix Yusupov did not have a good reason to murder [Gregory Rasputin](Gregory-Rasputin). He claimed it was for the good of Russia after fleeing from Russia. [Rasputin was damaging the royal family's reputation](Relationship-Between-Rasputin-And-The-Royal-Family). Some historians suggested British involvement to prevent Russia from withdrawing from the war, but it was certainly not the British who committed the act.
 
 The act was well plotted. He invited Rasputin to the Moika Palace for a party. The conspirators arrived at 11pm and faked a scene of a crazy party that has ended. Yusupov brought Rasputin down to the dining room, saying that his wife would join them once her guests left. He fed him cakes and wine, of which poisoned with cyanide powder. Rasputin chatted, his voice became low, and his throat seemed to be uncomfortable, but he was well. An hour passed, and Rasputin asked Yusupov to play the guitar for him.
 

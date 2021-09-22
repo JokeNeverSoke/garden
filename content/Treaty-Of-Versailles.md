@@ -7,7 +7,7 @@
 
 ## Content
 
-Treaty between the Allies and Germany that ended [World War 1](202103141651-World-War-1).
+Treaty between the Allies and Germany that ended [World War 1](World-War-1).
 
 ### Statements
 

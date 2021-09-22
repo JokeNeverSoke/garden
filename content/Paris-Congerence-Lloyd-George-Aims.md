@@ -11,4 +11,4 @@ Lloyd George was worried that a harsh treaty would cause a [Communist](Communism
 
 He also wanted Germany to lose its army, so that Britain can protect it's empire.
 
-He was pressured by the Britain people to impose a harsh treaty (such as reparations) since British was also damaged severely in [202103141651-World-War-1](202103141651-World-War-1).
+He was pressured by the Britain people to impose a harsh treaty (such as reparations) since British was also damaged severely in [WWI](World-War-1).
