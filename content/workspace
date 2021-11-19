@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📥 Inbox/_index.md",
+            "file": "📥 Inbox/NN-Attention.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📥 Inbox/_index.md",
+                "file": "📥 Inbox/NN-Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📥 Inbox/_index.md"
+                "file": "📥 Inbox/NN-Attention.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📥 Inbox/_index.md",
+                "file": "📥 Inbox/NN-Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +130,7 @@
   },
   "active": "127e8c85b4d7e82e",
   "lastOpenFiles": [
+    "📥 Inbox/NN-Attention.md",
     "📥 Inbox/_index.md",
     "📥 Inbox/1963-Milgram-Obedience-Study.md",
     "📥 Inbox/Machine-Translation.md",
@@ -138,7 +139,6 @@
     "📦 Archive/Treaty-Of-Versailles.md",
     "📥 Inbox/Wat?.md",
     "📥 Inbox/History.md",
-    "📥 Inbox/Pretraining-NN.md",
-    "📦 Archive/WW1-Paris-Peace-Conference.md"
+    "📥 Inbox/Pretraining-NN.md"
   ]
 }

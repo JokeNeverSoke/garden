@@ -21,6 +21,8 @@ Stuff I'm researching/studying/reviewing/\* on currently.
 
 There are partial contents on [IGCSE History](History) and Economics, but I'm not finishing them.
 
+There are also random notes from NLP/Neural Networks.
+
 ## Source
 
 Set up on GitHub repository <https://github.com/jokeneversoke/garden>
