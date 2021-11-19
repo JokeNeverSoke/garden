@@ -13,9 +13,17 @@ Some notes look weird because I either
 
 ## Currently
 
-Stuff I'm researching/studying/reviewing/\* on currently.
+Stuff I'm researching/studying/reviewing/purely thinking/etc. on currently.
 
-- AS Psychology
+- [AS Psychology](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-psychology-9990/)
+- Philosophy (as always)
+
+## Backlog
+
+There's plenty of stuff/thoughts/ideas that I wanted to evaluate and develop further ideas on. Wait on them, or message me in.
+
+- How to eat elegantly (*grazioso*)
+- Utility functions (usefulness/cost-benefit)
 
 ## Icebox
 

@@ -4,9 +4,6 @@ googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
-ignoreFiles = [
-    "/content/🎪 Random/*",
-]
 
 [markup]
     [markup.tableOfContents]

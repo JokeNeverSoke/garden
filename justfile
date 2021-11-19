@@ -7,7 +7,8 @@ sync:
 
 prepare: sync
     # delete templates and meta files
-    rm -rf "content/🎪 Random" "content/.DS_Store"
+    rm -rf "content/🎪 Random" "content/.obsidian"
+
 
     # flatten
     cd content; find . -type f -exec sh -c 'mv "$@" . 2>/dev/null || true' _ {} +
