@@ -1,4 +1,11 @@
-prepare:
+sync:
+    # remove current content
+    rm -rf content
+
+    # copy new content
+    cp -r "$HOME/Desktop/🧠 Brain" content
+
+prepare: sync
     # delete templates and meta files
     rm -rf "content/🎪 Random" "content/.DS_Store"
 
