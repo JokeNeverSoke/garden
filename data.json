@@ -1,4 +1,0 @@
-{
-  "titleTemplate": "Obsidian - {{vault}} - {{filename}}",
-  "titleTemplateEmpty": "Obsidian - {{vault}}"
-}
