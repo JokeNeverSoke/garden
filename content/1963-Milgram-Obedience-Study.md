@@ -82,12 +82,12 @@ Before the study many of his students and colleagues did not believe that people
 - sample selected carefully - wide range of occupations
 - quantitative measure of obedience
 - qualitative measures were used to capture behavior
-- Debriefed
+- debriefed
 
 #### Weaknesses
 
 - sample small and biased for male and local area
-  - low in generalisability
+  - low in generalizability
 - no informed consent of punishment
 - repeatedly deceived
   - chosen the role of teacher by chance
